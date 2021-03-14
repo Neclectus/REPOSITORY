@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #00CCFF;
+   font-family: courier;
+  text-align: center;
+}
+h2 {
+  color: lightblue;
+   font-family: consolas;
+  text-align: center;
+}
+
+p {
+    color: white;
+  font-family: courier;
+  text-align: center;
+}
